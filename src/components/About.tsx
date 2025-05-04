@@ -14,7 +14,7 @@ export default function About() {
         >
           <h2 className="text-3xl font-bold mb-6">About Me</h2>
           <p className="text-xl text-gray-600 dark:text-gray-300 mb-8">
-            I'm a passionate Full-Stack Web Developer with expertise in building modern, responsive, and scalable web applications.
+            I&apos;m a passionate Full-Stack Web Developer with expertise in building modern, responsive, and scalable web applications.
           </p>
         </motion.div>
 

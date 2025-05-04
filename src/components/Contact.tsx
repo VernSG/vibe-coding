@@ -38,7 +38,7 @@ export default function Contact() {
         >
           <h2 className="text-3xl font-bold mb-4">Get in Touch</h2>
           <p className="text-gray-600 dark:text-gray-300">
-            I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
+            I&apos;m always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
           </p>
         </motion.div>
 
